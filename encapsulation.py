@@ -16,6 +16,7 @@ class Main:
         person = Person('name' ,12)
         print(person.get_name())
         print(person.get_age())
+        print('hello world')
         
 if __name__== "__main__":
     Main.main()
